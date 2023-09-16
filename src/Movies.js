@@ -10,9 +10,9 @@ export default [
         "id": 1
       },
       {
-        "name": "Spider-Man: Across the Spider-Verse (2023)",
+        "name": "Spider-Man: Across the Spider-Verse ",
         "director": "Justin K. Thompson",
-        "overview": "Tons of fun information ",
+        "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence.",
         "poster": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
         "rating": 4,
         "id": 3
@@ -26,11 +26,11 @@ export default [
         "id": 4
       },
       {
-        "name": "test",
-        "director": "Justin K. Thompson",
-        "overview": "TETWET ",
-        "poster": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
-        "rating": "3",
+        "name": "The Hunger Games",
+        "director": "Gary Ross",
+        "overview": "Every year in the ruins of what was once North America, the nation of Panem forces each of its twelve districts to send a teenage boy and girl to compete in the Hunger Games. ",
+        "poster": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/1ewwtjqAcwZ5abr2X7coGN0UwaI.jpg",
+        "rating": "5",
         "id": 5
       },
       

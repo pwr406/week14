@@ -18,6 +18,7 @@ export default function ReviewForm(props) {
             review: review,
         };
         props.onSubmit(reviewData);
+        props.onClick();
     }
   
     return (
@@ -39,7 +40,7 @@ export default function ReviewForm(props) {
         
         <StarSelection
             value={rating}
-            onChange={(event) => setRating(event.target.value)}
+            onChange={(newRating) => setRating(newRating)}
         />
       </InputGroup>  
         

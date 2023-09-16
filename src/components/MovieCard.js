@@ -63,7 +63,8 @@ export default function MovieCard(props) {
         <Modal.Body>
           <ReviewForm
             movieId = {props.id}
-            onSubmit = {addReview} /> 
+            onSubmit = {addReview}
+            onClick = {handleFormClose} /> 
         </Modal.Body>
         <Modal.Footer>
           <Button variant="secondary" onClick={handleFormClose}>
